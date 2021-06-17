@@ -284,6 +284,10 @@ body {
                 position: relative;
                 top: 200px;
                 text-align: center;
-                color: white;
+                color: black;
                 font-size: 3.5em;
+                background: -webkit-linear-gradient(yellow, black);
+                -webkit-background-clip: text;
+   				-webkit-text-fill-color: transparent;
+   				-webkit-animation: hue 3s infinite ease-in-out;
             }
