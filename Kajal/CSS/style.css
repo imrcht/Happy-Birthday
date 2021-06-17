@@ -9,6 +9,22 @@ body {
   background-image: -o-radial-gradient(#374566, #010203);
   background-image: radial-gradient(#374566, #010203);
 }
+.wish {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 400px;
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+    color: red;
+    letter-spacing: 0.1em;
+    font-family: 'Pacifico', cursive;
+    background: -webkit-linear-gradient(#ffff00, #ff1493);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: hue 3s infinite ease-in-out;
+}
             span {
                 text-transform: uppercase;
             }
@@ -257,7 +273,14 @@ body {
                     transform: translate(-15px, 10px) rotate(10deg);
                 }
             }
-            h1 {
+            /*h1 {
+                position: relative;
+                top: 70px;
+                text-align: center;
+                color: red;
+                font-size: 3.5em;
+            }
+*/            h2 {
                 position: relative;
                 top: 200px;
                 text-align: center;
