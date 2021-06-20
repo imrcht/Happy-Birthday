@@ -307,9 +307,8 @@ body {
             	position: relative;
                 top: 500px;
                 left: 10%;
-                color: white;
                 font-size: 3.5em;
-                color: #4a0a13;
+                color: #c9ba00;
             }
             .kitkat {
             	align-items: center;
@@ -318,7 +317,9 @@ body {
             	position: relative;
                 top: 600px;
                 left: 22%;
-                color: white;
                 font-size: 3.5em;
+                color: #c9ba00;
+            }
+            .author {
                 color: #4a0a13;
             }
