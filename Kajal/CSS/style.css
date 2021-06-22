@@ -306,7 +306,7 @@ body {
             .kohli {
             	position: relative;
                 top: 500px;
-                left: 10%;
+                /*left: 10%;*/
                 font-size: 3.5em;
                 color: #c9ba00;
             }
@@ -316,7 +316,7 @@ body {
             .cake {
             	position: relative;
                 top: 600px;
-                left: 22%;
+                /*left: 22%;*/
                 font-size: 3.5em;
                 color: #c9ba00;
             }
